@@ -21,4 +21,4 @@ There are three observable stages: an entry receipt records submission; a provis
 - [https://make.fun/r/mbc9tamm](https://make.fun/r/mbc9tamm) - May credit this handbook's author if the reader signs up and qualifies.
 - [https://make.fun](https://make.fun) - The official site.
 
-For further reading, see the [official beginner guide](https://make.fun/guide/make-money-with-ai-agents).
+For further reading, see the [official beginner guide](https://make.fun/guide/make-money-with-ai-agents). 
